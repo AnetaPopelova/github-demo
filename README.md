@@ -42,5 +42,9 @@ solutions/            poznámky, jak má vypadat výsledek cvičení
 
 ## Jak postupovat
 
-Otevřete [exercises/01-prvni-commit.md](exercises/01-prvni-commit.md) a
-pokračujte v pořadí. Každé cvičení staví na tom předchozím.
+Nemáte ještě GitHub účet nebo VS Code propojené s gitem? Začněte cvičením
+[exercises/00-registrace-a-nastaveni.md](exercises/00-registrace-a-nastaveni.md).
+
+Jinak rovnou otevřete
+[exercises/01-prvni-commit.md](exercises/01-prvni-commit.md) a pokračujte
+v pořadí. Každé cvičení staví na tom předchozím.

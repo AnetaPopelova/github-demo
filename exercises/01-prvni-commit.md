@@ -2,13 +2,17 @@
 
 **Cíl:** projít si základní cyklus `add -> commit -> push`.
 
+Předpokladem je GitHub účet a naklonované repo ve VS Code – pokud to ještě
+nemáte hotové, vraťte se ke cvičení
+[00 – účet na GitHubu a nastavení VS Code](00-registrace-a-nastaveni.md).
+
 ## Postup
 
-1. Naklonujte si repo (pokud jste tak ještě neudělali):
+1. Otevřete naklonované repo ve VS Code a v integrovaném terminálu
+   (`` Ctrl+` ``) ověřte, že jste ve správné složce a na větvi `main`:
 
    ```bash
-   git clone <URL vaseho forku/repa>
-   cd github-demo
+   git status
    ```
 
 2. Vytvořte a aktivujte virtuální prostředí, nainstalujte závislosti a
