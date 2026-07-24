@@ -1,0 +1,11 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# vystupy z analyzy - generujeme lokalne, nepatri do repa
+output/
+
+# OS
+.DS_Store
