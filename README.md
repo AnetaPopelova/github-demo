@@ -1,4 +1,4 @@
-# Git & GitHub pro datové analytiky – demo repo
+# Git & GitHub pro datové analytiky – demo repozitar
 
 Toto repo slouží jako cvičební sandbox pro juniorní datové analytiky se
 základy Pythonu, kteří se poprvé seznamují s **gitem a GitHubem**.
